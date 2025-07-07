@@ -1,4 +1,4 @@
--- made by yuutoes.
+-- made by xxxx
 -- Fingerprints and usernames are logged in case of leak.
 
 local eU,pPa,Awb=getmetatable,type,pairs;
